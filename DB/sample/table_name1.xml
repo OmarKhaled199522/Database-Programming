@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Table>
+<Row>
+<column_name1TYPEvarchar>'11111111'</column_name1TYPEvarchar>
+<column_name2TYPEint>22222222</column_name2TYPEint>
+<column_name3TYPEvarchar>'333333333'</column_name3TYPEvarchar>
+</Row>
+<Row>
+<column_name1TYPEvarchar>'11111111'</column_name1TYPEvarchar>
+<column_name2TYPEint>22222222</column_name2TYPEint>
+<column_name3TYPEvarchar>'333333333'</column_name3TYPEvarchar>
+</Row>
+<Row>
+<column_name1TYPEvarchar>'value2'</column_name1TYPEvarchar>
+<column_name2TYPEint>5</column_name2TYPEint>
+<column_name3TYPEvarchar>'value4'</column_name3TYPEvarchar>
+</Row>
+</Table>

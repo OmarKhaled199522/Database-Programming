@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Table>
+<Row>
+<column_name1TYPEvarchar>NULL</column_name1TYPEvarchar>
+<column_name2TYPEint>NULL</column_name2TYPEint>
+<column_name3TYPEvarchar>NULL</column_name3TYPEvarchar>
+</Row>
+</Table>

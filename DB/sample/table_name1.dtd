@@ -1,0 +1,5 @@
+<!ELEMENT Table (Row*)>
+<!ELEMENT Row ( column_name1TYPEvarchar,column_name2TYPEint,column_name3TYPEvarchar )>
+<!ELEMENT column_name1TYPEvarchar (#PCDATA)>
+<!ELEMENT column_name2TYPEint (#PCDATA)>
+<!ELEMENT column_name3TYPEvarchar (#PCDATA)>
